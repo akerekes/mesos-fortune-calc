@@ -1,0 +1,2 @@
+FROM develar/java
+
